@@ -1,0 +1,141 @@
+
+
+
+    .featured_title{
+    
+    margin:auto;
+    width:45%;
+  
+   margin-top: 350px;
+ 
+    
+    }
+    
+    .features{
+      -webkit-box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+      -moz-box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+      box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+    
+       background-color:white !important;
+    width:67%;
+    height:auto;
+    margin:auto;
+    margin-top: 30px;
+    padding:50px;
+    border-radius:40px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    border:1px solid rgb(217, 211, 211);
+  margin-bottom: 20px;
+    
+    }
+
+    .img-responsive
+{
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+ 
+
+   
+}
+    
+.feature_text {
+font-size: 20px;
+padding-top: 5px;
+
+
+}
+
+
+
+/* 
+// Small devices (landscape phones, 576px and up) */
+@media (max-width: 768px) { 
+    
+    
+
+    .featured_title{
+    
+        margin:auto;
+        width:15%  !important;
+      font-size:50px !important;
+       margin-top: 590px;
+     
+        
+        }
+        
+        .features{
+        
+        
+           background-color:white !important;
+        width:70% !important;
+        height:auto;
+        margin:auto;
+        margin-top: 20px;
+        padding:70px;
+        border-radius:40px;
+        margin-left: 75px !important;
+        padding-left: 60px;
+        padding-right: 20px;
+        border:1px solid rgb(246, 241, 241);
+      margin-bottom: 30px;
+      
+      -webkit-box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+      -moz-box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+      box-shadow: 13px 12px 22px -19px rgba(0,0,0,0.75);
+
+
+        }
+    
+
+
+.disp{
+
+
+display:flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+
+
+
+
+        .img-responsive
+    {
+        height: 100px;
+        width: 150px;
+        object-fit: cover;
+     
+    
+       
+    }
+        
+    .feature_text {
+    font-size: 20px;
+    padding-top: 5px;
+    font-size: 20px !important;
+    
+    }
+    
+
+
+
+
+}
+/* 
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// X-Large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+// XX-Large devices (larger desktops, 1400px and up)
+@media (min-width: 1400px) { ... }  */
